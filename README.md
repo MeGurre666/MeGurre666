@@ -1,6 +1,6 @@
 ### Wasup :stuck_out_tongue:
 
-I am a very cool Swedish High School student. I am currently studying Technic (sounds better in swedish).
+I am a very cool Swedish High School student. I am currently studying technology (A cool program in Swedish High Schools).
 
 My current tasks are attempting to learn HTML and CSS :grimacing:
 
