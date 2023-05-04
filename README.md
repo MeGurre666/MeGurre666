@@ -1,1 +1,1 @@
-I do some shit sometimes
+I do shit but only sometimes
