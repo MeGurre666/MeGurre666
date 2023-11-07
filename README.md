@@ -1,1 +1,3 @@
-This is my profile, currently working on a portfolio website
+17 years Old
+Swedish
+Currently workin on some nice discord bots
